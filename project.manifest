@@ -8,7 +8,7 @@
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
-			"md5": "5325fa38c25e10c496c3ba913ab95b95"
+			"md5": "51f59167f1562fe8d4593679bdbbbf11"
 		},
 		"main.js": {
 			"md5": "3881c3a0abf6fa725fc627bffe3abf77"
@@ -2189,7 +2189,7 @@
 			"md5": "bed8df745a3a103e32baf0fe1ea4f1b3"
 		},
 		"res/db_config/default.json": {
-			"md5": "12ab7640437d087d769d2ab6cfc01ffb"
+			"md5": "b526a75cc1818cdcb5d4690e95b33f11"
 		},
 		"res/db_gba.txt": {
 			"md5": "be59256e9de08e339d8a240ef9d282d7"
@@ -5264,7 +5264,7 @@
 			"md5": "11bd7d2735f587a7c0bee6d32f742f58"
 		},
 		"res/UI/StartupScene_Mario.json": {
-			"md5": "6fad8c5c8d40d410b117fa0be6491d2f"
+			"md5": "ab5eb760e5254948ca55231c2db69bda"
 		},
 		"res/UI/StartupScene_MarioBros.json": {
 			"md5": "9f511b55ea39073da93f62fe9e5831b9"
@@ -5750,7 +5750,7 @@
 			"md5": "bcf06d61f18d5c788102c04a37db4ef7"
 		},
 		"src/framework/plugins/Admob.js": {
-			"md5": "e9fe4f35b8cb7c191ae8240551ad46d8"
+			"md5": "318c87ef5353f29d0e84e0b06a4a85a9"
 		},
 		"src/framework/plugins/Appflyer.js": {
 			"md5": "5ddeb5e8e30213878b62ad6a6d1459f3"
@@ -5915,19 +5915,19 @@
 			"md5": "d73d2c7b71815896a0691b4924aaa976"
 		},
 		"src/NES/Home/ListRomGBALayer.js": {
-			"md5": "038353ecaeb94355e8448a344f03d1c2"
+			"md5": "b8c82831ecf00d0be60352db75a74952"
 		},
 		"src/NES/Home/ListRomLayer.js": {
-			"md5": "f61b0b63ed2d94a38d6f2eef1357d4c3"
+			"md5": "82a66e5ae3324ddaeade3a2ae3b2b865"
 		},
 		"src/NES/Home/ListRomMAME.js": {
-			"md5": "6c1f992ca0b0cef34e70782f23a0445b"
+			"md5": "5e01ef3f47df3b19a104d53f7d9f8c04"
 		},
 		"src/NES/Home/ListRomN64Layer.js": {
-			"md5": "f35168d73119fa8bb168a3242951fda6"
+			"md5": "a61fcfa89315483e3d1e34f6fdeab854"
 		},
 		"src/NES/Home/ListRomSNESLayer.js": {
-			"md5": "30b61e4b8b9a4ca1e767d3e14e8cc471"
+			"md5": "52c7a831c4f740b7f1bacf68d8c1feb3"
 		},
 		"src/NES/Home/MenuLayer.js": {
 			"md5": "8745bc64295e1e8250e4586f34a9495f"
@@ -5987,7 +5987,7 @@
 			"md5": "e548dfcef4e525d4a8dd1d46c5203898"
 		},
 		"src/NES/tracking.js": {
-			"md5": "1ba365ac7a12e8727157e58ab9da3914"
+			"md5": "b34f2ef1b8b51d27daaf31818822ac9e"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "53d1450a7a74a3dc46d40a89d258032d"
