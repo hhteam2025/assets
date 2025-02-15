@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/",
-	"version" : "1",
+	"version" : "2",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -2189,7 +2189,7 @@
 			"md5": "bed8df745a3a103e32baf0fe1ea4f1b3"
 		},
 		"res/db_config/default.json": {
-			"md5": "b526a75cc1818cdcb5d4690e95b33f11"
+			"md5": "7189b44b05d4646612cf51fc7825d347"
 		},
 		"res/db_gba.txt": {
 			"md5": "be59256e9de08e339d8a240ef9d282d7"
@@ -5234,7 +5234,7 @@
 			"md5": "10ea7f0700ce10cff6a8f6efac22e483"
 		},
 		"res/UI/StartupScene_ArcadeGames.json": {
-			"md5": "0fb2441c3e95c5246af497d1a190d815"
+			"md5": "2f50c2e7ab4869d01bb9f92693954d3a"
 		},
 		"res/UI/StartupScene_BattleCity.json": {
 			"md5": "3aea6ca43847fad543fb57d546196b40"
@@ -5268,6 +5268,9 @@
 		},
 		"res/UI/StartupScene_MarioBros.json": {
 			"md5": "9f511b55ea39073da93f62fe9e5831b9"
+		},
+		"res/UI/StartupScene_Mario_0.json": {
+			"md5": "a4686d933cbc191b347b674e4d6862c5"
 		},
 		"res/UI/StartupScene_Mario_NQC.json": {
 			"md5": "1cf162f2faa72d83fb1864b0d807748f"
@@ -5780,7 +5783,7 @@
 			"md5": "80db006e349ce5af11a668045b70bdb3"
 		},
 		"src/framework/plugins/PlatformWrapper.js": {
-			"md5": "b5b511d50665741150653a0f1969643f"
+			"md5": "570e83b0f5c06de4536983eb8f5abdb4"
 		},
 		"src/framework/plugins/Portal.js": {
 			"md5": "b11f94c46cddf59d131aff40abbbde83"
@@ -5882,7 +5885,7 @@
 			"md5": "264a62b8e0974ff735239e809dcb2c4f"
 		},
 		"src/NES/Game/GameLayer.js": {
-			"md5": "b2112b5b1513e5f28235c8d1d0089759"
+			"md5": "3045b39a09ed424c901326adf6b53d47"
 		},
 		"src/NES/Game/GameLayerMAME.js": {
 			"md5": "7ac4c43a4e619c1d76cc528484f50471"
@@ -5930,7 +5933,7 @@
 			"md5": "52c7a831c4f740b7f1bacf68d8c1feb3"
 		},
 		"src/NES/Home/MenuLayer.js": {
-			"md5": "8745bc64295e1e8250e4586f34a9495f"
+			"md5": "a1dc4802a2a095ae2a2d7b0251d086e1"
 		},
 		"src/NES/Home/Promo/PromoLayer.js": {
 			"md5": "243823cf013d18652b0fe31709c10b60"
@@ -5942,7 +5945,7 @@
 			"md5": "e7b0bded8a6f21aaea8673436b255cb8"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "9f107c1f3a3dab744ab29fd0746455a9"
+			"md5": "cf89f8aeb89e28cd2d206499c4bea375"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "d05cbbb3a0fc9c8e1f1dc79f8f2ce3df"
@@ -5987,7 +5990,7 @@
 			"md5": "e548dfcef4e525d4a8dd1d46c5203898"
 		},
 		"src/NES/tracking.js": {
-			"md5": "b34f2ef1b8b51d27daaf31818822ac9e"
+			"md5": "f62b0ce6237d8f815afa0d435cc35151"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "53d1450a7a74a3dc46d40a89d258032d"
