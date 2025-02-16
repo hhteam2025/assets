@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/",
-	"version" : "3",
+	"version" : "4",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5891,7 +5891,7 @@
 			"md5": "7ac4c43a4e619c1d76cc528484f50471"
 		},
 		"src/NES/Game/GameLayerN64.js": {
-			"md5": "08f5159d19011c00c64208b971cdb11d"
+			"md5": "f7b2cad2f8f0e55dea16c66c5ec5176e"
 		},
 		"src/NES/Game/GameLayerSNK.js": {
 			"md5": "539b4cd076e71dbe9c840f8da43afc6c"
