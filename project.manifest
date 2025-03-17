@@ -4,11 +4,11 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/",
-	"version" : "8",
+	"version" : "9",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
-			"md5": "51f59167f1562fe8d4593679bdbbbf11"
+			"md5": "f90350d290541b1eade6781f081c7258"
 		},
 		"main.js": {
 			"md5": "3881c3a0abf6fa725fc627bffe3abf77"
@@ -2189,7 +2189,7 @@
 			"md5": "bed8df745a3a103e32baf0fe1ea4f1b3"
 		},
 		"res/db_config/default.json": {
-			"md5": "5935d1236a94823287d2c5e480d9a1ef"
+			"md5": "e1a93eedbf3badba088b010c59367ae4"
 		},
 		"res/db_gba.txt": {
 			"md5": "be59256e9de08e339d8a240ef9d282d7"
@@ -5300,7 +5300,7 @@
 			"md5": "6a8ccd0191c74f184c26f259e9fe9f9d"
 		},
 		"res/UI/StartupScene_Retro64_All.json": {
-			"md5": "a5482ae57a1cac50eaa9b95f98d95ec0"
+			"md5": "39bbf776e68d9cba5c9fe7dbff33a125"
 		},
 		"res/UI/StartupScene_RetroGame_NQC.json": {
 			"md5": "cbabdd018f0ccda714f7cb2e60d9e72b"
@@ -5783,7 +5783,7 @@
 			"md5": "80db006e349ce5af11a668045b70bdb3"
 		},
 		"src/framework/plugins/PlatformWrapper.js": {
-			"md5": "570e83b0f5c06de4536983eb8f5abdb4"
+			"md5": "204bc3a35af5005c52a4e4d3f455d12a"
 		},
 		"src/framework/plugins/Portal.js": {
 			"md5": "b11f94c46cddf59d131aff40abbbde83"
@@ -5909,7 +5909,7 @@
 			"md5": "fdcd3048fa17bf4765a3ceae503da096"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "bfe63b16091db0f40c2adf8f599fe795"
+			"md5": "d59be914a4eddb62c4de4f20f6e996c8"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
 			"md5": "57ae70b9a8e5c560531fedc415242c61"
@@ -5990,7 +5990,7 @@
 			"md5": "e548dfcef4e525d4a8dd1d46c5203898"
 		},
 		"src/NES/tracking.js": {
-			"md5": "f62b0ce6237d8f815afa0d435cc35151"
+			"md5": "ef2f4abd3d6320df2273db48864aab90"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "53d1450a7a74a3dc46d40a89d258032d"
