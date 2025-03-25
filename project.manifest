@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/",
-	"version" : "11",
+	"version" : "12",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5909,7 +5909,7 @@
 			"md5": "fdcd3048fa17bf4765a3ceae503da096"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "827950bcdad85a55a4669bdd223c0e85"
+			"md5": "f9a7f168aa35b12b54f78f1f293a27c9"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
 			"md5": "57ae70b9a8e5c560531fedc415242c61"
