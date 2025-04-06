@@ -4,14 +4,14 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/",
-	"version" : "13",
+	"version" : "14",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
 			"md5": "f90350d290541b1eade6781f081c7258"
 		},
 		"main.js": {
-			"md5": "3881c3a0abf6fa725fc627bffe3abf77"
+			"md5": "52d1593dbb1c708cf8c6451af8bb8aa9"
 		},
 		"project.json": {
 			"md5": "86b5e8c61afbce9aadb12ad894dd3c91"
@@ -2189,7 +2189,7 @@
 			"md5": "bed8df745a3a103e32baf0fe1ea4f1b3"
 		},
 		"res/db_config/default.json": {
-			"md5": "3bc8964a2e6539088d7ba4d23d15aaa1"
+			"md5": "623c667c9d8fc6b6c4c244fd9533914f"
 		},
 		"res/db_gba.txt": {
 			"md5": "be59256e9de08e339d8a240ef9d282d7"
@@ -5753,7 +5753,7 @@
 			"md5": "bcf06d61f18d5c788102c04a37db4ef7"
 		},
 		"src/framework/plugins/Admob.js": {
-			"md5": "318c87ef5353f29d0e84e0b06a4a85a9"
+			"md5": "ca81111dbb1d7c17b96e527cf3ae4aa2"
 		},
 		"src/framework/plugins/Appflyer.js": {
 			"md5": "5ddeb5e8e30213878b62ad6a6d1459f3"
@@ -5843,7 +5843,7 @@
 			"md5": "f12d48acbe0470a4e878941f92a16739"
 		},
 		"src/NES/adsMgr.js": {
-			"md5": "24facf7e62112d7c289667d4899a6bd5"
+			"md5": "3934f6f8d7ddf88c29a18c9079de6db6"
 		},
 		"src/NES/Constant.js": {
 			"md5": "732b7245fb8bff30fe7b9a5f67287b2f"
