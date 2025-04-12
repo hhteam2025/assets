@@ -4,14 +4,14 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/hhteam2025/assets/v1.0.0/",
-	"version" : "14",
+	"version" : "15",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
 			"md5": "f90350d290541b1eade6781f081c7258"
 		},
 		"main.js": {
-			"md5": "52d1593dbb1c708cf8c6451af8bb8aa9"
+			"md5": "0a4bc8b78d4b0538e3a50713d5f44604"
 		},
 		"project.json": {
 			"md5": "86b5e8c61afbce9aadb12ad894dd3c91"
@@ -5708,7 +5708,7 @@
 			"md5": "9b4f186e1c2bcb40684e14f14150acd9"
 		},
 		"src/framework/Framework.js": {
-			"md5": "b0ed5e7cc048f050dd21074c9038f916"
+			"md5": "6c8afac85b6112af86e406e70c9a1d43"
 		},
 		"src/framework/gui/Avatar.js": {
 			"md5": "abda5767526b9582e0682038b2cf4d3f"
@@ -5774,7 +5774,7 @@
 			"md5": "a26eddc47eee63c73d25e13c276268bb"
 		},
 		"src/framework/plugins/Google.js": {
-			"md5": "f99871e3317e1fd263d706986ce06b95"
+			"md5": "186c5106b4c29b827c00ebe881d8aa85"
 		},
 		"src/framework/plugins/IronSource.js": {
 			"md5": "a5f37d237521f85604f0cc78a3a1c8ac"
@@ -5843,7 +5843,7 @@
 			"md5": "f12d48acbe0470a4e878941f92a16739"
 		},
 		"src/NES/adsMgr.js": {
-			"md5": "3934f6f8d7ddf88c29a18c9079de6db6"
+			"md5": "7327db1cb91868fb6b70134ed5a664ed"
 		},
 		"src/NES/Constant.js": {
 			"md5": "732b7245fb8bff30fe7b9a5f67287b2f"
@@ -5903,7 +5903,7 @@
 			"md5": "b48fd9254ea95d7c5ab83dc7df5d60d9"
 		},
 		"src/NES/gamedata.js": {
-			"md5": "7ba65317dd8d82370c3a8bfcd0424d9b"
+			"md5": "f65396607e46afe7e7d10e0b47f78501"
 		},
 		"src/NES/Home/FindROMLayer.js": {
 			"md5": "fdcd3048fa17bf4765a3ceae503da096"
